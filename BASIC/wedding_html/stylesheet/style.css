@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #aaa;
+}
+
+a {
+  text-decoration: none;
+}
+
+.heading {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 20px;
+}
